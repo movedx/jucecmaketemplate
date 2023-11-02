@@ -1,5 +1,9 @@
 {
     "cSpell.words": [
-        "juce"
-    ]
+        "juce",
+        "Normalisable"
+    ],
+    "files.associations": {
+        "memory": "cpp"
+    }
 }
