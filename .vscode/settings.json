@@ -4,6 +4,7 @@
         "Normalisable"
     ],
     "files.associations": {
-        "memory": "cpp"
+        "memory": "cpp",
+        "*.mm": "cpp"
     }
 }
