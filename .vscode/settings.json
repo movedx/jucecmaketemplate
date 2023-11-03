@@ -5,6 +5,7 @@
     ],
     "files.associations": {
         "memory": "cpp",
-        "*.mm": "cpp"
+        "*.mm": "cpp",
+        "atomic": "cpp"
     }
 }
